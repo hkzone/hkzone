@@ -13,7 +13,8 @@
 const vitaliy = {
 	technologies: {
 		language: 'Javascript/Typescript',
-		frontEnd: [ 'HTML', 'CSS/SCSS', 'Tailwind', 'Theme UI', 'Bootstrap', 'JQuery'],
+		frontEnd: [ 'HTML', 'CSS/SCSS', 'Tailwind',
+			    'Theme UI', 'Bootstrap', 'JQuery'],
 		backEnd: ['Node.js', 'Express.js', 'MongoDB'],
 		frameworks: ['React', 'Next.js'],
 		animation: ['Gsap', 'Framer Motion'],

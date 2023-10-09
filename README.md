@@ -12,9 +12,11 @@
 ```javascript
 const vitaliy = {
 	technologies: {
-		language: 'Javascript',
-		frontEnd: ['SCSS', 'HTML', 'CSS', 'Bootstrap', 'JQuery',],
+		language: 'Javascript/Typescript',
+		frontEnd: [ 'HTML', 'CSS/SCSS', 'Tailwind', 'Theme UI', 'Bootstrap', 'JQuery'],
 		backEnd: ['Node.js', 'Express.js', 'MongoDB'],
+		frameworks: ['React', 'Next.js'],
+		animation: ['Gsap', 'Framer Motion'],
 		tools: [
 			'Webpack',
 			'Parcel',
@@ -24,8 +26,9 @@ const vitaliy = {
 			'Git',
 			'GitHub',
 			'Heroku',
+			'Docker'
 		],
-		currentlyLearning: 'React'
+		currentlyLearning: 'Three.js'
 	},
 };
 ```
